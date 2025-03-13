@@ -1,0 +1,5 @@
+the original pre and post disaster image dataset is of about 51GB and can be downloaded from the website : https://xview2.org
+
+this dataset also includes additional metadata portion for geological tags , that can be inferred for real world visualization and mapping
+
+the dataset used for our implementations was only about 10GBs that were randomly sampled and highly skewed.
